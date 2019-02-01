@@ -1,3 +1,4 @@
+displayDialogs = DialogModes.NO
 var savedRuler= app.preferences.rulerUnits;  
 app.preferences.rulerUnits = Units.PIXELS;  
 var w = app.activeDocument.width;  
