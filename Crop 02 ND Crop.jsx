@@ -1,3 +1,5 @@
+displayDialogs = DialogModes.NO
+
 app.preferences.rulerUnits = Units.PIXELS;//sets the units to pixels  
 
 var doc = activeDocument;  
